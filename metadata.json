@@ -1,0 +1,7 @@
+{
+  "name": "Smart School Website",
+  "description": "A premier international-standard school website featuring a real-time live official circulars and digital notice system, holistic wings, and rich campus facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
