@@ -155,7 +155,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 href="#contact"
                 className="px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs uppercase tracking-wider shadow-md shadow-blue-600/20 transition-all flex items-center gap-1.5"
               >
-                <span>Admission Enquiry</span>
+                <span>Admission MukeshChaudhary</span>
                 <ArrowRight className="w-3.5 h-3.5" />
               </a>
             </div>
